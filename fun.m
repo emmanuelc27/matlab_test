@@ -1,3 +1,5 @@
+% Función de prueba
+
 function [  ] = fun(  )
 
 
